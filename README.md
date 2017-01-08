@@ -13,8 +13,9 @@ INSTALLER ET PERSONNALISER CE THEME :
 1. copier le code source de ce thème dans le dossier \wp-content\themes\ de votre Wordpress puis sélectionner le via l'espace d'administration 
 2. ajouter un custom logo, l'identité du site et le menu à utiliser : via la personnalisation du thème wordpress
 3. les différentes couleurs de fonds peuvent être réglées au début du fichier style.css du thème
-4. le flux radio disponible dans le footer : 
+4. le flux radio disponible dans le footer est à indiquer dans le fichier footer.php
 (le flux radio par défaut est le flux de www.radiovostok.ch)
+5. l'image à la une par défaut est à remplacer en écrasant le fichier /img/defaultthumbnail.jpg avec l'image jpeg désirée
 
 en cas de soucis avec la navigation ajax des paramétrages sont possibles dans js/ajaxLink.js et js/moreArticles.js
 
