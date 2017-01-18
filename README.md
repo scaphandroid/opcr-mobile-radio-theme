@@ -6,8 +6,8 @@ UN THEME MOBILE POUR LES WEB RADIO
   - utilise bootstrap et peut facilement être adapté en un thème responsive complet
   - propose une navigation en ajax sans rechargement de page  
   - le flux de votre radio sans coupre d'une page à une autre et sans utiliser de pop up !
-  - il s'agit de la version open-source du thème de www.radiovostok.ch
-
+  - il s'agit de la version open-source du thème mobile de www.radiovostok.ch
+  
 INSTALLER ET PERSONNALISER CE THEME :
 
 1. copier le code source de ce thème dans le dossier \wp-content\themes\ de votre Wordpress puis sélectionner le via l'espace d'administration 
