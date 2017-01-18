@@ -20,7 +20,7 @@ header, .navbar, #navbar {
 
 /* couleur de fond footer */
 footer{
-	background-color: grey;
+	background-color: black;
 }
 
 /* couleurs de cadres et éléments*/
@@ -36,6 +36,12 @@ header{
 .une, .article{
 	border: 2px solid black;
 }
+
+/* couleur de fond pour les bandeaux d'articles */
+.titre-vignette{
+	background-color: rgba(0, 0, 0, 0.8);
+}
+
 
 /* couleur de fond bouton de navigation focus*/
 .navbar-default .navbar-nav>.active>a,
@@ -169,22 +175,6 @@ header{
 }
 
 
-
-.navbar-default .navbar-nav>.active>a, 
-.navbar-default .navbar-nav>.active>a:hover, 
-.navbar-default .navbar-nav>.active>a:focus,
-.navbar-default .navbar-nav>.open>a, 
-.navbar-default .navbar-nav>.open>a:hover, 
-.navbar-default .navbar-nav>.open>a:focus,
-.navbar-default .navbar-toggle:hover,
-.navbar-default .navbar-toggle:focus,
-.navbar-default .navbar-nav .open .dropdown-menu>.active>a,
-.navbar-default .navbar-nav .open .dropdown-menu>.active>a:hover,
-.navbar-default .navbar-nav .open .dropdown-menu>.active>a:focus
-{
-	background-color: #fcf8e3;
-}
-
 #zone-recherche{
 	height: 40px;
 	display: none;
@@ -258,7 +248,6 @@ header{
 	padding-left: 2%;
 	padding-right: 2%;
 	color: white;
-	background-color: rgba(40, 61, 86, 0.8);
 	z-index: 2;
 }
 
