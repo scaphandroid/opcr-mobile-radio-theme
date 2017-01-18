@@ -19,6 +19,6 @@ INSTALLER ET PERSONNALISER CE THEME :
 
 en cas de soucis avec la navigation ajax des paramétrages sont possibles dans js/ajaxLink.js et js/moreArticles.js
 
-il s'agit d'un thème mobile donc à utiliser avec un 'switcher' de thème Wordpress en thème desktop/thème mobile selon les périphériques qui consultent le site 
+il s'agit d'un thème mobile donc à utiliser avec un 'switcher' de thème Wordpress en thème desktop/thème mobile selon les périphériques qui consultent le site ( par exemple : https://fr.wordpress.org/plugins/any-mobile-theme-switcher/ )
 
 projet réalisé par Alexis Raphaeloff dans le cadre du projet 5 de la formation OpenClassRooms "Chef de Projet Multimédia - développement" (https://openclassrooms.com/courses/projet-contribuez-a-votre-ecosysteme)
